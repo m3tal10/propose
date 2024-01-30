@@ -10,7 +10,7 @@ const code = (
 
 function yes(){
     document.getElementById("img").src = "happydudu.gif";
-    document.getElementById("proposaltxt").innerText="Thank You So Much!!!";
+    document.getElementById("proposaltxt").innerText="SKSKSKSK, YAAAAAYYYYYY!!!";
     document.getElementById("proposaltxt").align="center"
     return;
 }
